@@ -1,0 +1,10 @@
+SOURCE @eleitoral00053
+    id_registro: ELE00053
+    titulo: Rolls, rumours and reportage: Press framing of electoral roll revision controversies during assembly campaigns
+    ano: 2026
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00053_rolls_rumours_and_reportage_press_framing_of_electoral_roll_revision_con.pdf
+    sha256_pdf: 2917102ef55f5b8dcba31827d3a592fa8741e00766bb643b97b42d4bc2d7b2fc
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

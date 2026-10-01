@@ -1,0 +1,12 @@
+SOURCE @eleitoral00083
+    id_registro: ELE00083
+    titulo: Seria a Tolerância a Marca Distintiva do Cidadão Democrático? Tolerância Política no Brasil Pós-Eleições 2022*
+    ano: 2025
+    tipo_documental: Article
+    idioma: Português
+    fontes_busca: SciELO
+    arquivo_local: ELE00083_seria_a_tolerancia_a_marca_distintiva_do_cidadao_democratico_tolerancia_politica_no.pdf
+    sha256_pdf: bb4b21794d746d9330a41582f51910e79163f3ba5cd600f0c0e4b56fb81bfe2a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

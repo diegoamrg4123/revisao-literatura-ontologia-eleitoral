@@ -1,0 +1,10 @@
+SOURCE @eleitoral00069
+    id_registro: ELE00069
+    titulo: January 6th on Twitter: measuring social media attitudes towards the Capitol riot through unhealthy online conversation and sentiment analysis
+    ano: 2023
+    fontes_busca: CAPES
+    arquivo_local: ELE00069_january_6th_on_twitter_HTML_derived.pdf
+    sha256_pdf: a7bba9f870c100054eaec03eb0bd27ea7e27ac3980d66c3598a2858e2bcdb496
+    natureza_texto: copia_derivada
+    elegibilidade: pendente
+END SOURCE

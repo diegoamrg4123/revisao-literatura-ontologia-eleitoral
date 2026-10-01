@@ -1,0 +1,11 @@
+SOURCE @eleitoral00005
+    id_registro: ELE00005
+    titulo: Challenges Kenyan Television Journalists Face in Spotting Fake News
+    ano: 2020
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00005_challenges_kenyan_television_journalists_face_in_spotting_fake_news.pdf
+    sha256_pdf: 035005118797ca4e250d50cc9e991d278549fe470372a5a3274ee3569bce630f
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

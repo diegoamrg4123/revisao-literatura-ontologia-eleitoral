@@ -1,0 +1,11 @@
+SOURCE @eleitoral00049
+    id_registro: ELE00049
+    titulo: Funcionamiento y viabilidad de las alianzas de fact-checking en España: el caso de Comprobado
+    ano: 2024
+    idioma: es
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00049_funcionamiento_y_viabilidad_de_las_alianzas_de_fact_checking_en_espana_e.pdf
+    sha256_pdf: 65120cf262377318d27eb409bb15665aed5e36d8d2982e486edf29bee3bb3d80
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

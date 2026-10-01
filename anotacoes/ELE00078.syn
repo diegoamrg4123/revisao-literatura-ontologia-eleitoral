@@ -1,0 +1,10 @@
+SOURCE @eleitoral00078
+    id_registro: ELE00078
+    titulo: Prediction Machines
+    ano: 2022
+    fontes_busca: CAPES
+    arquivo_local: ELE00078_prediction_machines.pdf
+    sha256_pdf: 4054d7459446eae42f97ffbcef8e8d0973dd9acd7037e1149e1b2369e7f8e741
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

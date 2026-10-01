@@ -1,0 +1,11 @@
+SOURCE @eleitoral00044
+    id_registro: ELE00044
+    titulo: Feminists on Facebook: an Ontology of Assemblages for Digital Platforms of Resistance
+    ano: 2018
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00044_feminists_on_facebook_an_ontology_of_assemblages_for_digital_platforms_of_resistance.pdf
+    sha256_pdf: a41de7afcc4c436077f73c907e484772264ed8d53e208ce8ade7ab818df3a6ee
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

@@ -1,0 +1,10 @@
+SOURCE @eleitoral00072
+    id_registro: ELE00072
+    titulo: Multinational and Multimodal Character Framing of Political Candidates in Online News: Do Political and Media System Classifications Matter?
+    ano: 2024
+    fontes_busca: CAPES
+    arquivo_local: ELE00072_multinational_and_multimodal_character_framing_of_political_candidates_in_online_news_do.pdf
+    sha256_pdf: 94ca0adaeb694c6475f5ce264c27dc5ffa2242f0ac110e1c046f50e886d4462a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

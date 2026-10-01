@@ -1,0 +1,10 @@
+SOURCE @eleitoral00024
+    id_registro: ELE00024
+    titulo: Fake news e eleições: Controle de Constitucionalidade como pilar fundamental para a democracia
+    ano: 2025
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00024_fake_news_e_eleicoes_controle_de_constitucionalidade_como_pilar_fundamen.pdf
+    sha256_pdf: 23bafa646c0cce1219dc88f3c7e5f604ee1e1c218696378d795fe3ce05aa7d29
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

@@ -1,0 +1,10 @@
+SOURCE @eleitoral00066
+    id_registro: ELE00066
+    titulo: Democracy, Media, and Civil Society in Mizoram: An Analytical Study
+    ano: 2026
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00066_democracy_media_and_civil_society_in_mizoram_an_analytical_study.pdf
+    sha256_pdf: 786739848cc3f199c0acdcce572770bbd208f4454f8efc0a3228c962400771b0
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

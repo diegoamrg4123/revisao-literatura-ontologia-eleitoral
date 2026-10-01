@@ -1,0 +1,9 @@
+SOURCE @eleitoral00001
+    id_registro: ELE00001
+    titulo: Comparing Audience Appreciation to Fact-Checking Across Political Communities on Reddit
+    ano: 2020
+    fontes_busca: ACM
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

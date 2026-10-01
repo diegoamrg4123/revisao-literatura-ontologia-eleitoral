@@ -1,0 +1,10 @@
+SOURCE @eleitoral00079
+    id_registro: ELE00079
+    titulo: Post-Truth Protest: How 4chan Cooked Up the Pizzagate Bullshit
+    ano: 2018
+    fontes_busca: CAPES
+    arquivo_local: ELE00079_post_truth_protest_how_4chan_cooked_up_the_pizzagate_bullshit.pdf
+    sha256_pdf: cf46b222221844f6ce579e9b6dc773f25bc2269f11f75f852a93f16b16dfd5c7
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

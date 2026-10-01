@@ -1,0 +1,11 @@
+SOURCE @eleitoral00027
+    id_registro: ELE00027
+    titulo: Understanding in a Post-Truth World: Comprehension and Co-Naissance as Empathetic Antidotes to Post-Truth Politics
+    ano: 2017
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00027_understanding_in_a_post_truth_world_comprehension_and_co_naissance_as_em.pdf
+    sha256_pdf: c7d33be3144a57c62abf4b1e2a41b03d134c017ce7a9942a337491ce2d904961
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

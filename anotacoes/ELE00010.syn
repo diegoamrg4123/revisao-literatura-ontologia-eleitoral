@@ -1,0 +1,11 @@
+SOURCE @eleitoral00010
+    id_registro: ELE00010
+    titulo: agenda setting das fake news: uma análise da desinformação contra a esquerda brasileira à luz da ciência política
+    ano: 2022
+    idioma: pt
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00010_agenda_setting_das_fake_news_uma_analise_da_desinformacao_contra_a_esque.pdf
+    sha256_pdf: f5a236a25d9608e907a899b01beb329bb6e94e42c4414930d5ad0fb117eb686a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

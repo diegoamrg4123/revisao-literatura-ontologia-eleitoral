@@ -1,0 +1,11 @@
+SOURCE @eleitoral00020
+    id_registro: ELE00020
+    titulo: The spread of Misinformation on social media: An insightful countermeasure to restrict
+    ano: 2022
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00020_the_spread_of_misinformation_on_social_media_an_insightful_countermeasur.pdf
+    sha256_pdf: ee4d35f762123d0dcffefff1a9cb2bc14f623fc7fcd58db12c3e38e274b988ba
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

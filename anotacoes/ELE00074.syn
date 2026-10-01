@@ -1,0 +1,10 @@
+SOURCE @eleitoral00074
+    id_registro: ELE00074
+    titulo: Automated Trouble: The Role of Algorithmic Selection in Harms on Social Media Platforms
+    ano: 2021
+    fontes_busca: CAPES
+    arquivo_local: ELE00074_automated_trouble_the_role_of_algorithmic_selection_in_harms_on_social_m.pdf
+    sha256_pdf: 3cb77339de4bfa604c81d4920818105836a1363bcfae7edf98389e4f8ae4559f
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

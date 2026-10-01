@@ -1,0 +1,24 @@
+SOURCE @eleitoral00012
+    id_registro: ELE00012
+    titulo: Fake news y redes sociales: análisis del fact-checker Newtral durante las elecciones al Parlamento de Andalucía de 2018
+    ano: 2020
+    idioma: es
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00012_fake_news_y_redes_sociales_analisis_del_fact_checker_newtral_durante_las.pdf
+    sha256_pdf: 5422c50a1df3f9ca849bd7fc7f5b6388505d75184021ee4613aef8a47ccbff34
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00012
+    id_item: ELE00012_E001
+    quote: Newtral verificó 42 intervenciones para comprobar, usando la tipología que marca su política de trabajo, si eran verdaderas, falsas, engañosas, verdad a medias o indemostrables. Nuestro objetivo es mostrar, tomando a Newtral como caso de estudio, cómo las empresas de verificación están realizan do un papel de control sobre la información expue sta en campaña por los pol íticos y el uso que hacen de diferentes redes sociales para consegui r la implicación de la ciudadanía , a la hora de localizar bulos y de difundir el resultado de sus verificaciones.
+    memo: O artigo relata emprego da tipologia de veracidade da Newtral em 42 intervenções de campanha. O excerto nomeia categorias, escopo e uso, mas não atribui sua criação aos autores nem demonstra validação do esquema.
+    code: qp1_artefatos, qp2_escopo_contexto_unidade, qp4_estrutura_organizacao
+    pagina: 1, física do PDF
+    localizador: ELE00012_fake_news_y_redes_sociales_analisis_del_fact_checker_newtral_durante_las.pdf#page=1&selection=193,0,230,15
+    artefato: tipología de Newtral
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Aplicação de esquema preexistente. Elegibilidade não ratificada; mesmo PDF do registro ELE00028, sem fusão automática nem contagem como estudo independente.
+END ITEM

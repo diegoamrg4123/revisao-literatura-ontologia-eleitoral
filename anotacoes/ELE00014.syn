@@ -1,0 +1,24 @@
+SOURCE @eleitoral00014
+    id_registro: ELE00014
+    titulo: Verificado México 2018. Desinformación y fact-checking en campaña electoral
+    ano: 2019
+    tipo_documental: Article
+    idioma: es
+    fontes_busca: OpenAlex; CAPES; SciELO; Scopus
+    arquivo_local: ELE00014_verificado_mexico_2018_desinformacion_y_fact_checking_en_campana_elector.pdf
+    sha256_pdf: 9ae46f43019de9b71008453feefff7d9401dac83360c2dbde6a250d08e14d05a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00014
+    id_item: ELE00014_E001
+    quote: Por otra parte, se puede diferenciar entre rumores de precampaña, campaña y postcampaña.
+    memo: O excerto distingue rumores por três fases temporais. Sustenta um critério organizador inicial, sem demonstrar manual de decisão, hierarquia ou avaliação do esquema.
+    code: qp4_estrutura_organizacao
+    pagina: 1, física do PDF
+    localizador: ELE00014_verificado_mexico_2018_desinformacion_y_fact_checking_en_campana_elector.pdf#page=1&selection=63,61,65,51
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Frase curta mas completa. O contexto mexicano é documentado na fonte; não é inferido como conteúdo literal desta frase. Elegibilidade pendente.
+END ITEM

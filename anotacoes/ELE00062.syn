@@ -1,0 +1,10 @@
+SOURCE @eleitoral00062
+    id_registro: ELE00062
+    titulo: CANADIAN PROPAGANDA VECTORS INTELLIGENCE MAP \\& TACTICAL ASSESSMENT
+    ano: 2026
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00062_canadian_propaganda_vectors_intelligence_map_tactical_assessment.pdf
+    sha256_pdf: ce539517be6d5769ab6c1a340310f53039fe408ea76556127edbb17eb89ae2e9
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

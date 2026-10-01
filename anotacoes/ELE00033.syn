@@ -1,0 +1,11 @@
+SOURCE @eleitoral00033
+    id_registro: ELE00033
+    titulo: Geographies of discontent: sources, manifestations and consequences
+    ano: 2021
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00033_geographies_of_discontent_bcu_repository.pdf
+    sha256_pdf: 63e6704eab4893f7be674176d02cba0647936bd94b39b4e2a1c493bc213b9318
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

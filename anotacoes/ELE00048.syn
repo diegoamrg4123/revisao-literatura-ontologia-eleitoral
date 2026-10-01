@@ -1,0 +1,12 @@
+SOURCE @eleitoral00048
+    id_registro: ELE00048
+    titulo: The Generative AI Paradox: GenAI and the Erosion of Trust, the Corrosion of Information Verification, and the Demise of Truth
+    ano: 2026
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00048_the_generative_ai_paradox_genai_and_the_erosion_of_trust_the_corrosion_o.pdf
+    sha256_pdf: 7c86a97096d01a0e1ed50957d3f2478ce3aaad6b5ada1865b3ce41a772c7260b
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

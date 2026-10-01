@@ -1,0 +1,11 @@
+SOURCE @eleitoral00054
+    id_registro: ELE00054
+    titulo: Apresentação
+    ano: 2022
+    idioma: pt
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00054_apresentacao.pdf
+    sha256_pdf: 7f96de8e1340fbae756a672f4d7058a5255be4312634e891a741c2118e8c1641
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

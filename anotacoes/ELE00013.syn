@@ -1,0 +1,11 @@
+SOURCE @eleitoral00013
+    id_registro: ELE00013
+    titulo: Assessing Digital Threats to Democracy, and Workable Solutions: A Review of the Recent Literature
+    ano: 2020
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00013_assessing_digital_threats_to_democracy_and_workable_solutions_a_review_of_the.pdf
+    sha256_pdf: 63c22f1948fec51836c61a09e8d5007d08c15d0782506d6338a800466e46c7e2
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

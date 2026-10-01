@@ -1,0 +1,10 @@
+SOURCE @eleitoral00081
+    id_registro: ELE00081
+    titulo: A DIFERENÇA RESISTE À DE(S)MOCRATIZAÇÃO
+    ano: 2019
+    fontes_busca: CAPES
+    arquivo_local: ELE00081_a_diferenca_resiste_a_de_s_mocratizacao.pdf
+    sha256_pdf: 8fe2c52db11789a0860f9302ec0dd701bdb7574a9564030ba676147478692692
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

@@ -1,0 +1,11 @@
+SOURCE @eleitoral00006
+    id_registro: ELE00006
+    titulo: Capítulo 6. La campaña subterránea: sesgos informativos y noticias falsas
+    ano: 2024
+    idioma: es
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00006_capitulo_6_la_campana_subterranea_sesgos_informativos_y_noticias_falsas.pdf
+    sha256_pdf: f833cbfad744a66b0d0130250afd0e508de0216405451b9431a2ee6144a38dda
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

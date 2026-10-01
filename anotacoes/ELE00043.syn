@@ -1,0 +1,11 @@
+SOURCE @eleitoral00043
+    id_registro: ELE00043
+    titulo: Știrile False: Câteva Sugestii De Analiză
+    ano: 2024
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00043_stirile_false_cateva_sugestii_de_analiza.pdf
+    sha256_pdf: a08ae7e637446758080438b0f161f4d2a139b244410c2705ce4ec6e830763d6a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

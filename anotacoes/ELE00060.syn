@@ -1,0 +1,10 @@
+SOURCE @eleitoral00060
+    id_registro: ELE00060
+    titulo: Special issue: The (international) politics of content takedowns: Theory, practice, ethics
+    ano: 2023
+    idioma: en
+    fontes_busca: OpenAlex
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

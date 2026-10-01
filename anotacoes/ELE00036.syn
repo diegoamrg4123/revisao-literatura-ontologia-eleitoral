@@ -1,0 +1,12 @@
+SOURCE @eleitoral00036
+    id_registro: ELE00036
+    titulo: Living in a Covid‐19 World
+    ano: 2020
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00036_living_in_a_covid_19_world.pdf
+    sha256_pdf: 3307e36fa600e4f9ade4eb61d60b34814d6547d3e5c7533cda7221babb7ae10c
+    natureza_texto: identidade_pendente
+    elegibilidade: pendente
+    conflitos: Identidade documental em quarentena conforme manifesto; PDF não validado como correspondente ao registro, não usar para extração até revisão.
+END SOURCE

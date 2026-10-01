@@ -1,0 +1,12 @@
+SOURCE @eleitoral00047
+    id_registro: ELE00047
+    titulo: Misleading Discourse on Instagram: A Multimodal Study of Latin American Presidential Candidates in the Face of COVID-19
+    ano: 2021
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00047_misleading_discourse_on_instagram_a_multimodal_study_of_latin_american_p.pdf
+    sha256_pdf: fbff3784a98b93e417131b76516a5c3768bc5ed57783d000cdfb36d45450af63
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

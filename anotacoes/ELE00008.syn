@@ -1,0 +1,11 @@
+SOURCE @eleitoral00008
+    id_registro: ELE00008
+    titulo: Fake News, from Social Media to Television Case Study of the Romanian Presidential Elections 2019
+    ano: 2019
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00008_fake_news_from_social_media_to_television_case_study_of_the_romanian.pdf
+    sha256_pdf: 2003815d43633954cd2a99913ad6229ca496bb3c6eb670596be3f1714f5fda58
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

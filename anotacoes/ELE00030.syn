@@ -1,0 +1,12 @@
+SOURCE @eleitoral00030
+    id_registro: ELE00030
+    titulo: Fact-checking en Colombia: RedCheq en las elecciones regionales de 2019
+    ano: 2022
+    tipo_documental: Article
+    idioma: es
+    fontes_busca: OpenAlex; SciELO; Scopus
+    arquivo_local: ELE00030_fact_checking_en_colombia_redcheq_en_las_elecciones_regionales_de_2019.pdf
+    sha256_pdf: b72d2c1f0c00c5c771a401f77137f346a0e372b9e33c3a70017e236b6994a0fc
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

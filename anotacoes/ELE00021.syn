@@ -1,0 +1,11 @@
+SOURCE @eleitoral00021
+    id_registro: ELE00021
+    titulo: Inteligencia artificial en la verificación de la información política. Herramientas y tipología
+    ano: 2024
+    idioma: es
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00021_inteligencia_artificial_en_la_verificacion_de_la_informacion_politica_he.pdf
+    sha256_pdf: 4d6d5fc8c4eb7836c72fd9da351511016787b452303d62b199fc0a4351f1b8b2
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

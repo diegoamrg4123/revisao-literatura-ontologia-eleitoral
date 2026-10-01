@@ -1,0 +1,24 @@
+SOURCE @eleitoral00029
+    id_registro: ELE00029
+    titulo: From Fact-Checking to Debunking: The Case of Elections24Check During the 2024 European Elections
+    ano: 2025
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00029_from_fact_checking_to_debunking_the_case_of_elections24check_during_the.pdf
+    sha256_pdf: be7e42af531e1704e15fdc5cf633061b3d510f728a6e9a30718d28faa1494472
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00029
+    id_item: ELE00029_E001
+    quote: As for the deceitful technique, based on Gutiérrez‐Coba and Rodríguez‐Pérez (2023), three possible options were coded: “false context,” “manipulated content,” and “fabricated content” (agreement = 88.5%; Cohen’s 𝜅 = 0.799; Krippendorff’s 𝛼 = 0.800).
+    memo: Os autores relatam codificação aplicada de três técnicas enganosas baseada em literatura anterior e índices de concordância. O uso e as métricas pertencem ao estudo atual; a criação original das categorias não é atribuída a ele.
+    code: qp4_estrutura_organizacao, qp7_avaliacao_limites_lacunas
+    pagina: 8, física do PDF
+    localizador: ELE00029_from_fact_checking_to_debunking_the_case_of_elections24check_during_the.pdf#page=8&selection=102,0,116,7
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Concordância reportada pelos autores, não recalculada; não equivale a validade externa. A fonte anterior de construção ainda não foi verificada.
+END ITEM

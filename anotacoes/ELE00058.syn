@@ -1,0 +1,11 @@
+SOURCE @eleitoral00058
+    id_registro: ELE00058
+    titulo: The good, the bad, and the obscure: Exploring uses of generative AI in the global 2024 elections
+    ano: 2026
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

@@ -1,0 +1,23 @@
+SOURCE @eleitoral00018
+    id_registro: ELE00018
+    titulo: Desinformación y fact-checking en las elecciones argentinas de 2019. El caso de la iniciativa Reverso
+    ano: 2020
+    idioma: es
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00018_desinformacion_y_fact_checking_en_las_elecciones_argentinas_de_2019_el_c.pdf
+    sha256_pdf: bf88964e4556100f674f54f311e06fe55ed2a1a7d235f310a46e4b66e57bc49b
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00018
+    id_item: ELE00018_E001
+    quote: Fuente: Elaboración propia A partir de este primer análisis, se propuso la siguiente clasificación y estudio de los bulos monitorizados: declaraciones falsas o descontextualizadas de políticos, conexiones inventadas entre políticos con organizaciones o determinadas personas, hechos que no sucedieron, falsas promesas o iniciativas en caso de victoria, fraude electoral, imágenes sacadas de contexto, audios o vídeos falsos o descontextualizados, propuestas políticas no realizadas o descontextualizadas, informaciones políticas inexistent es o descontextualizadas y supuestos apoyos de celebrities a determinado partido o candidato.
+    memo: O artigo propõe classificação dos bulos monitorizados e enumera suas categorias após um primeiro exame dos dados. A evidência sustenta estrutura e construção orientada à análise, não uma ontologia formal nem classes necessariamente exclusivas.
+    code: qp4_estrutura_organizacao, qp5_construcao
+    pagina: 9, física do PDF
+    localizador: ELE00018_desinformacion_y_fact_checking_en_las_elecciones_argentinas_de_2019_el_c.pdf#page=9&selection=38,0,87,34
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Lista extensa mas pertencente a uma única afirmação organizadora. O início preserva a indicação de fonte retornada pelo PDF.js. Elegibilidade e abrangência das categorias não ratificadas.
+END ITEM

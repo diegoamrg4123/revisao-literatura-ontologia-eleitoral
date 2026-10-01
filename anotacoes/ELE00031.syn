@@ -1,0 +1,12 @@
+SOURCE @eleitoral00031
+    id_registro: ELE00031
+    titulo: Desinformação e mitologia política: a presença de mitos em boatos desmentidos nas eleições brasileiras de 2018
+    ano: 2021
+    tipo_documental: Article
+    idioma: pt
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00031_desinformacao_e_mitologia_politica_a_presenca_de_mitos_em_boatos_desment.pdf
+    sha256_pdf: dd4fc38b1f91d249e24c9d55f8b031a1285beee52749c469eec3a2fb9741a541
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

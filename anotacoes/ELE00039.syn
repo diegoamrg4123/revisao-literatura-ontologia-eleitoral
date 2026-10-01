@@ -1,0 +1,9 @@
+SOURCE @eleitoral00039
+    id_registro: ELE00039
+    titulo: How election management bodies disrupt electoral disinformation: Australia and the UK in comparative perspective
+    ano: 2026
+    fontes_busca: OpenAlex
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

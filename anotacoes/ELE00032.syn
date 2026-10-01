@@ -1,0 +1,11 @@
+SOURCE @eleitoral00032
+    id_registro: ELE00032
+    titulo: Fact-checking en procesos electorales y campaña permanente. Un análisis comparado entre España y Portugal
+    ano: 2024
+    idioma: es
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00032_fact_checking_en_procesos_electorales_y_campana_permanente_un_analisis_c.pdf
+    sha256_pdf: a2e9399edcfef9cd023dbfb63a118a54a94fc02ccb4882deb56cd8acdb05f18f
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

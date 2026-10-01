@@ -1,0 +1,26 @@
+SOURCE @eleitoral00016
+    id_registro: ELE00016
+    titulo: RUN-AS: a novel approach to annotate news reliability for disinformation detection
+    ano: 2023
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00016_run_as_a_novel_approach_to_annotate_news_reliability_for_disinformation.pdf
+    sha256_pdf: 1b8e7a6711bb5875b3227c04819fb6278f596db04dbd3c8328ed5faf95f2450e
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00016
+    id_item: ELE00016_PILOTO_01
+    quote: The five structure labels of our proposal are TITLE, SUBTITLE, LEAD, BODY and CONCLUSION. The annotation of these parts provides infor- mation on whether or not the news item follows the standard of the journalistic structure.
+    memo: O estudo descreve RUN-AS como esquema de anotação e explicita cinco rótulos estruturais. Este trecho sustenta identificação e estrutura do artefato. A referência eleitoral na introdução não demonstra aplicação eleitoral do esquema; elegibilidade permanece pendente.
+    code: qp4_estrutura_organizacao
+    pagina: 9 (página física; rótulo impresso não registrado)
+    localizador: ELE00016_run_as_a_novel_approach_to_annotate_news_reliability_for_disinformation.pdf, página física 9, seleção PDF.js [14, 16, 17, 10]; segmento selected_text da evidência de página 9
+    artefato: RUN-AS (denominado pelos autores annotation scheme)
+    valor_extraido: Rótulos estruturais reportados: TITLE, SUBTITLE, LEAD, BODY e CONCLUSION.
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Extração preliminar para piloto. Sem ratificação humana da interpretação, código ou elegibilidade; citação literal inclui hifenização/fragmentação do PDF.
+END ITEM

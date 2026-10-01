@@ -1,0 +1,11 @@
+SOURCE @eleitoral00051
+    id_registro: ELE00051
+    titulo: Risks of Digital Policy
+    ano: 2025
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00051_risks_of_digital_policy.pdf
+    sha256_pdf: e32617b2cf254b1d557c42dd93a3eaffc43e2d1730d06941d815f7d8b821ff22
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

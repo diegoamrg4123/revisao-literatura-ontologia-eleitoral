@@ -1,0 +1,10 @@
+SOURCE @eleitoral00071
+    id_registro: ELE00071
+    titulo: What is punitive populism? A typology based in media communication
+    ano: 2021
+    fontes_busca: CAPES
+    arquivo_local: ELE00071_what_is_punitive_populism_a_typology_based_in_media_communication.pdf
+    sha256_pdf: 101554267047f672a88ee7aa1b0bb194ce5fdef6e863e5c902c30f72a02ac192
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

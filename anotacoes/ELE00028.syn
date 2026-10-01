@@ -1,0 +1,11 @@
+SOURCE @eleitoral00028
+    id_registro: ELE00028
+    titulo: Fake news y redes sociales: análisis del fact-checker Newtral durante las elecciones al Parlamento de Andalucía de 2018: La gestión de Newtral en las elecciones al parlamento de Andalucía de 2018
+    ano: 2020
+    idioma: es
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00028_fake_news_y_redes_sociales_analisis_del_fact_checker_newtral_durante_las.pdf
+    sha256_pdf: 5422c50a1df3f9ca849bd7fc7f5b6388505d75184021ee4613aef8a47ccbff34
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

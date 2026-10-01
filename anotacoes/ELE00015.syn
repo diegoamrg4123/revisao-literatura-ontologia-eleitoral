@@ -1,0 +1,25 @@
+SOURCE @eleitoral00015
+    id_registro: ELE00015
+    titulo: Sourcing and Automation of Political News and Information During Three European Elections
+    ano: 2019
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00015_sourcing_and_automation_of_political_news_and_information_during_three_e.pdf
+    sha256_pdf: d5919dacee110bb0197e8485bccb37eb4e1de9ea6e83d2b99bbb396fd3bc7f16
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00015
+    id_item: ELE00015_E001
+    quote: A source needs to exhibit at least three of our criteria to be labeled as junk news. For example, partisan news organizations that report with an ideological angle (bias) would not be considered junk news unless they also failed on at least two of the other criteria.
+    memo: Os autores estabelecem limiar de três critérios para classificar uma fonte como junk news, excluindo viés partidário isolado como condição suficiente. É fronteira operacional de classificação de fontes, não julgamento da veracidade de toda notícia individual.
+    code: qp3_definicoes_fronteiras, qp4_estrutura_organizacao
+    pagina: 3, física do PDF
+    localizador: ELE00015_sourcing_and_automation_of_political_news_and_information_during_three_e.pdf#page=3&selection=22,21,26,45
+    artefato: classificação de fontes como junk news
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: A frase não enumera os critérios nem prova sua construção ou validação. Relação entre este relatório e ELE00017 ainda precisa de revisão, sem fusão automática.
+END ITEM

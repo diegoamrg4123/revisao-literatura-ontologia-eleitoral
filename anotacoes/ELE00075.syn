@@ -1,0 +1,10 @@
+SOURCE @eleitoral00075
+    id_registro: ELE00075
+    titulo: Political Communication and the Nigerian Democratic Experiment: Critical Insights from Yorùbá Philosophy
+    ano: 2021
+    fontes_busca: CAPES
+    arquivo_local: ELE00075_political_communication_and_the_nigerian_democratic_experiment_critical.pdf
+    sha256_pdf: 0e0799e509a59993a8ee4928ea97d81a66c493c126de9233e033db022fc500a3
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

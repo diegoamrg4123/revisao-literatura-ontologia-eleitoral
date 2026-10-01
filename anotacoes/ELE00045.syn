@@ -1,0 +1,12 @@
+SOURCE @eleitoral00045
+    id_registro: ELE00045
+    titulo: Discursos de odio en la red social X tras el segundo debate presidencial en Ecuador 2025
+    ano: 2026
+    tipo_documental: Article
+    idioma: pt
+    fontes_busca: OpenAlex; SciELO
+    arquivo_local: ELE00045_discursos_de_odio_en_x_debate_presidencial_fulltext_derived.pdf
+    sha256_pdf: e260bbf24afc424198ec85321ff31500a1a533d43e0dc599a5de46bbbc49c205
+    natureza_texto: copia_derivada
+    elegibilidade: pendente
+END SOURCE

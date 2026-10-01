@@ -1,0 +1,11 @@
+SOURCE @eleitoral00059
+    id_registro: ELE00059
+    titulo: INFRASTRUCTURES OF MANIPULATION
+    ano: 2023
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00059_infrastructures_of_manipulation.pdf
+    sha256_pdf: 7d98fed01eda38c5e6b7cb9767b4733976dbf76a11263e715d01593825af0e34
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

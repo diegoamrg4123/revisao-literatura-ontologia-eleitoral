@@ -1,0 +1,12 @@
+SOURCE @eleitoral00084
+    id_registro: ELE00084
+    titulo: Fact Checking the Campaign: How Political Reporters Use Twitter to Set the Record Straight (or Not)
+    ano: 2014
+    tipo_documental: Article
+    idioma: English
+    fontes_busca: Scopus
+    arquivo_local: ELE00084_fact_checking_the_campaign_how_political_reporters_use_twitter_to_set_the.pdf
+    sha256_pdf: 23157f22675de8c58868487905b009cec307f4e0ba1a1ccc85c7def017b35e08
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

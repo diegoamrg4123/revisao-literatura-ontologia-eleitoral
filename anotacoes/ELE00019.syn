@@ -1,0 +1,36 @@
+SOURCE @eleitoral00019
+    id_registro: ELE00019
+    titulo: ECOSSISTEMA DA DESINFORMAÇÃO POLÍTICA: ANÁLISE DOS MECANISMOS DE DISSEMINAÇÃO DA DESINFORMAÇÃO NO BRASIL
+    ano: 2023
+    idioma: pt
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00019_ecossistema_da_desinformacao_politica_analise_dos_mecanismos_de_dissemin.pdf
+    sha256_pdf: d8bb276759f645aefc4de491afee963e0a9d1b013bffa347a1fb481cc93f4dd0
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00019
+    id_item: ELE00019_E001
+    quote: O Ecossistema de Desinformação Política (BARRETO JUNIOR, 2021, p. 40 ) funciona de maneira ininterrupta e é pautado por estratégias que envolvem múlt iplos agentes (autoridades com mandato executivo, parlamentares, assessores alocados em gabinetes e, no parlamento, influenciadores digitais, produtores de conteúdo de texto, vídeo e imagem) envolvidos com a produção e disseminação em redes sociais (Faceb ook e Twitter), plataformas de vídeos (Youtube), portais simulacros de páginas noticiosas, mas que na realidade disseminam desinformação, e aplicativos de mensagens ( WhatsApp e Telegram ), voltadas à propagação de conteúdo deliberadamente falso, distorcido, enviesado ou descontextualizado.
+    memo: A passagem organiza a descrição do ecossistema por agentes e canais e caracteriza o conteúdo propagado. A atribuição a Barreto Junior 2021 é preservada: o excerto não demonstra coleta original, construção de ontologia formal ou validação independente.
+    code: qp3_definicoes_fronteiras, qp4_estrutura_organizacao
+    pagina: 8, física do PDF
+    localizador: ELE00019_ecossistema_da_desinformacao_politica_analise_dos_mecanismos_de_dissemin.pdf#page=8&selection=37,0,84,32
+    artefato: Ecossistema de Desinformação Política
+    origem_afirmacao: literatura_citada
+    status_revisao: proposta_ia
+    limites: A fonte primária citada não foi verificada nesta extração. Manter separado de resultado original e de evidência ratificada de elegibilidade.
+END ITEM
+
+ITEM @eleitoral00019
+    id_item: ELE00019_E002
+    quote: É mais adequado, portanto, considerar as Fake News relacio nadas à política como desinformação, ou seja, conteúdo criado com o propósito deliberado de enganar ou confundir os destinatários e é, ainda, comumente disseminado e reforçado nas redes.
+    memo: Os autores delimitam desinformação política pela intenção de enganar ou confundir. A passagem sustenta definição em prosa, sem oferecer protocolo operacional completo para adjudicar intenções.
+    code: qp3_definicoes_fronteiras
+    pagina: 5, física do PDF
+    localizador: ELE00019_ecossistema_da_desinformacao_politica_analise_dos_mecanismos_de_dissemin.pdf#page=5&selection=133,46,140,20
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Delimitação conceitual e interpretação preliminar, não regra de classificação validada. Elegibilidade pendente.
+END ITEM

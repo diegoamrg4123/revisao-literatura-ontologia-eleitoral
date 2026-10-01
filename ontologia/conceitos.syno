@@ -1,0 +1,48 @@
+ONTOLOGY qp1_artefatos
+    description: Identificação de nomes e tipos de artefatos de organização do conhecimento.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho nomeia ou caracteriza taxonomia, ontologia, tipologia, esquema ou modelo explícito.
+    exclusao: Mera menção a algoritmo/classificador sem artefato conceitual identificado.
+END ONTOLOGY
+
+ONTOLOGY qp2_escopo_contexto_unidade
+    description: Fenômenos representados, contexto substantivo e unidades de análise declarados.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho delimita objeto, aplicação, corpus ou unidade do artefato.
+    exclusao: Referência eleitoral introdutória não deve ser codificada como aplicação empírica eleitoral.
+END ONTOLOGY
+
+ONTOLOGY qp3_definicoes_fronteiras
+    description: Definições operacionais e distinções ou limites entre conceitos.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho define um conceito ou explicita fronteira conceitual.
+    exclusao: Lista de nomes sem definição ou interpretação atribuída pelo agente sem respaldo.
+END ONTOLOGY
+
+ONTOLOGY qp4_estrutura_organizacao
+    description: Classes, dimensões, níveis, relações e critérios de organização do artefato.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho descreve estrutura interna ou regra de classificação/anotação.
+    exclusao: Resultado de um classificador sem informação sobre estrutura ou regra conceitual.
+END ONTOLOGY
+
+ONTOLOGY qp5_construcao
+    description: Procedimentos, fontes e participantes da construção ou adaptação do artefato.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho descreve desenvolvimento, extensão ou adaptação e sua base teórica, jurídica ou empírica.
+    exclusao: Aplicação de artefato preexistente não prova sua construção original pelo estudo.
+END ONTOLOGY
+
+ONTOLOGY qp6_tecnicas_ferramentas_dados
+    description: Técnicas, ferramentas, datasets e esquemas associados ao artefato.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho apresenta recurso e explicita seu vínculo com construção, aplicação ou avaliação.
+    exclusao: Ferramenta ou dataset citado sem vínculo com o artefato, ou disponibilidade presumida.
+END ONTOLOGY
+
+ONTOLOGY qp7_avaliacao_limites_lacunas
+    description: Evidências de avaliação, resultados, limitações e lacunas reportadas.
+    topic: dimensoes_mapeamento
+    inclusao: Trecho apresenta avaliação, achado, limitação, lacuna ou recomendação futura claramente identificada.
+    exclusao: Intenção de avaliar não deve ser descrita como validação concluída; ausência não inferida de trecho isolado.
+END ONTOLOGY

@@ -1,0 +1,12 @@
+SOURCE @eleitoral00003
+    id_registro: ELE00003
+    titulo: The anatomy of ‘fake news’: Studying false messages as digital objects
+    ano: 2021
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00003_the_anatomy_of_fake_news_fulltext_html_derived.pdf
+    sha256_pdf: 5fcb171b6654c9ce2cf611965dec50b8951d6e47b592e253de1be91063cbc97c
+    natureza_texto: copia_derivada
+    elegibilidade: pendente
+END SOURCE

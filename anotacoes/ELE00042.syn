@@ -1,0 +1,10 @@
+SOURCE @eleitoral00042
+    id_registro: ELE00042
+    titulo: Truth in science and in molecular recognition, post‐truth in human affairs
+    ano: 2019
+    idioma: en
+    fontes_busca: OpenAlex
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

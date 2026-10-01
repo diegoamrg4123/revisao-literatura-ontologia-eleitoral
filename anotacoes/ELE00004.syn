@@ -1,0 +1,12 @@
+SOURCE @eleitoral00004
+    id_registro: ELE00004
+    titulo: Estrategia discursiva sobre los MENA en YouTube. Construcción de un discurso de odio
+    ano: 2022
+    tipo_documental: Article
+    idioma: es
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00004_estrategia_discursiva_sobre_los_mena_en_youtube_construccion_de_un_discu.pdf
+    sha256_pdf: 8e590669b9e3d0e30890a33a4f847f88fd03462398be8fbcd8224ebff3053411
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

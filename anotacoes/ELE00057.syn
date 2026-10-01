@@ -1,0 +1,12 @@
+SOURCE @eleitoral00057
+    id_registro: ELE00057
+    titulo: Time to (Re)visualise victims? Introducing shadow victims of digital misinformation
+    ano: 2026
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00057_time_to_revisualise_victims_shadow_victims_of_digital_misinformation.pdf
+    sha256_pdf: 1a6867f1813699f8e9b520ccb4bcf0780181fa5ce1ba59ad505b92d3e467da8f
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

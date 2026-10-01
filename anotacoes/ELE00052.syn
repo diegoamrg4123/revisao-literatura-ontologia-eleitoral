@@ -1,0 +1,12 @@
+SOURCE @eleitoral00052
+    id_registro: ELE00052
+    titulo: Decision-making process in voting during the 2024 election in Indonesia (A Study in Bandung Regency)
+    ano: 2025
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00052_decision_making_process_in_voting_during_the_2024_election_in_indonesia.pdf
+    sha256_pdf: d7c9b3b7b0b328f37bf8efe1cf10b9f76a045d2110fcaf7fd42791dc2b0a5ec1
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

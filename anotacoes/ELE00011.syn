@@ -1,0 +1,11 @@
+SOURCE @eleitoral00011
+    id_registro: ELE00011
+    titulo: The rapid diffusion of fake news: An analysis of content on migration, refugees, and conflict on international fact-checking platforms
+    ano: 2023
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00011_the_rapid_diffusion_of_fake_news_an_analysis_of_content_on_migration_ref.pdf
+    sha256_pdf: e2fe480eb709ffad259f9997d2d9cd2dbce3f0d10bbcadf32d58d2b96fcbf88e
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

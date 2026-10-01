@@ -1,0 +1,10 @@
+SOURCE @eleitoral00041
+    id_registro: ELE00041
+    titulo: Preliminary Observations on the Romanian Constitutional Court’s Annulment of the First Round of Presidential Elections in 2024
+    ano: 2026
+    idioma: en
+    fontes_busca: OpenAlex
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

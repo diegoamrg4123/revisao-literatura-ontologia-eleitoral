@@ -1,0 +1,225 @@
+TEMPLATE mapeamento_eleitoral
+# Proposta v0.1: aguardando aprovação integral do pesquisador.
+# SOURCE = relatório bibliográfico; ITEM = excerto verificável com afirmação completa.
+# Sem bundles, chains, hierarquia ou relações causais.
+
+SOURCE FIELDS
+    REQUIRED id_registro
+    REQUIRED titulo
+    OPTIONAL ano
+    OPTIONAL tipo_documental
+    OPTIONAL idioma
+    REQUIRED fontes_busca
+    OPTIONAL arquivo_local
+    OPTIONAL sha256_pdf
+    REQUIRED natureza_texto
+    REQUIRED elegibilidade
+    OPTIONAL motivo_decisao
+    OPTIONAL conflitos
+END SOURCE FIELDS
+
+ITEM FIELDS
+    REQUIRED id_item
+    REQUIRED quote
+    REQUIRED memo
+    REQUIRED code
+    REQUIRED pagina
+    REQUIRED localizador
+    OPTIONAL artefato
+    OPTIONAL valor_extraido
+    REQUIRED origem_afirmacao
+    REQUIRED status_revisao
+    OPTIONAL limites
+END ITEM FIELDS
+
+ONTOLOGY FIELDS
+    REQUIRED description
+    REQUIRED topic
+    REQUIRED inclusao
+    REQUIRED exclusao
+END ONTOLOGY FIELDS
+
+FIELD id_registro TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Identificador estável ELE da consolidação bibliográfica.
+END FIELD
+
+FIELD titulo TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Título bibliográfico canônico, sem normalização silenciosa.
+END FIELD
+
+FIELD ano TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Ano do metadado canônico; conflitos de online-first e fascículo ficam registrados.
+END FIELD
+
+FIELD tipo_documental TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Tipo documental informado pelo metadado ou pela fonte, sem presumir revisão por pares.
+END FIELD
+
+FIELD idioma TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Idioma observado no texto integral ou declarado no metadado, distinguindo a origem.
+END FIELD
+
+FIELD fontes_busca TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Fontes de recuperação de cada registro, preservando sobreposição.
+END FIELD
+
+FIELD arquivo_local TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Nome portátil do arquivo usado na leitura; arquivo não incluído automaticamente no pacote público.
+END FIELD
+
+FIELD sha256_pdf TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION SHA-256 do PDF efetivamente lido.
+END FIELD
+
+FIELD natureza_texto TYPE ENUMERATED
+    SCOPE SOURCE
+    DESCRIPTION Natureza do texto disponível e eventuais limitações.
+    VALUES
+        pdf_nao_derivado: PDF não derivado, de editor ou repositório, validado estruturalmente e por identidade.
+        copia_derivada: Cópia de leitura derivada de texto integral público, com proveniência e limitações.
+        identidade_pendente: Arquivo com correspondência de identidade ainda não confirmada.
+        sem_texto_integral: Registro bibliográfico sem texto integral local recuperado.
+    END VALUES
+END FIELD
+
+FIELD elegibilidade TYPE ENUMERATED
+    SCOPE SOURCE
+    DESCRIPTION Decisão acadêmica humana; todos os candidatos começam como pendente.
+    VALUES
+        pendente: Ainda sem decisão acadêmica humana.
+        incluido: Incluído por decisão explícita do pesquisador.
+        excluido: Excluído por decisão explícita do pesquisador, com motivo registrado.
+    END VALUES
+    GUIDELINES
+        Nunca alterar pendente para incluido ou excluido sem decisão individual explícita do pesquisador.
+        Manter não recuperação separada de exclusão após leitura integral.
+    END GUIDELINES
+END FIELD
+
+FIELD motivo_decisao TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Código IC/EC e justificativa da decisão humana; não substitui registro de não recuperação.
+END FIELD
+
+FIELD conflitos TYPE TEXT
+    SCOPE SOURCE
+    DESCRIPTION Divergências bibliográficas, de identidade, ano, versão ou revisão por pares.
+END FIELD
+
+FIELD id_item TYPE TEXT
+    SCOPE ITEM
+    DESCRIPTION Identificador único e estável da evidência no projeto.
+END FIELD
+
+FIELD quote TYPE QUOTATION
+    SCOPE ITEM
+    DESCRIPTION Excerto literal de uma afirmação completa, verificável na fonte.
+    GUIDELINES
+        Preservar o selected_text verificado. Não corrigir silenciosamente hifenizações ou espaçamentos.
+        Delimitar uma afirmação completa em no máximo um parágrafo; separar evidências que cruzam páginas.
+        Usar apenas trechos necessários e proporcionais à finalidade acadêmica. Não transcrever o artigo inteiro.
+    END GUIDELINES
+END FIELD
+
+FIELD memo TYPE MEMO
+    SCOPE ITEM
+    DESCRIPTION Interpretação preliminar da evidência, separada do relato autoral.
+    GUIDELINES
+        Distinguir relato do autor de interpretação do agente. Não completar informação ausente.
+        Contexto introdutório não prova aplicação eleitoral. Aplicação não equivale a criação de artefato novo.
+        Resultados e métricas são autorrelatados, salvo verificação independente explicitamente documentada.
+    END GUIDELINES
+END FIELD
+
+FIELD code TYPE CODE
+    SCOPE ITEM
+    DESCRIPTION Uma ou mais dimensões QP aprovadas e diretamente sustentadas pela evidência.
+    GUIDELINES
+        Aplicar somente os sete conceitos QP aprovados, com evidência direta no excerto.
+        Não importar classes da taxonomia eleitoral existente nem criar novos conceitos durante o lote.
+    END GUIDELINES
+END FIELD
+
+FIELD pagina TYPE TEXT
+    SCOPE ITEM
+    DESCRIPTION Página física do PDF; indicar rótulo impresso se diferente.
+END FIELD
+
+FIELD localizador TYPE TEXT
+    SCOPE ITEM
+    DESCRIPTION Página e seleção PDF.js ou seção/tabela/figura verificável; sem caminho absoluto pessoal.
+    GUIDELINES
+        Não depender de uma pasta externa para compilar o projeto público.
+        Registrar nome do arquivo, hash e página separadamente; backlinks completos permanecem no backstage.
+    END GUIDELINES
+END FIELD
+
+FIELD artefato TYPE TEXT
+    SCOPE ITEM
+    DESCRIPTION Nome do artefato conforme o autor; não inferir ontologia a partir da palavra isolada.
+END FIELD
+
+FIELD valor_extraido TYPE TEXT
+    SCOPE ITEM
+    DESCRIPTION Resposta estruturável sustentada pelo excerto, sem substituir a citação.
+    GUIDELINES
+        Manter nomes e definições autorais; não converter conceito citado em categoria nova do projeto.
+        Quando ausente usar não reportado em matriz de extração; não criar ITEM sem citação.
+    END GUIDELINES
+END FIELD
+
+FIELD origem_afirmacao TYPE ENUMERATED
+    SCOPE ITEM
+    DESCRIPTION Distingue descrição própria do estudo de relato sobre literatura anterior.
+    VALUES
+        estudo_atual: Contribuição, aplicação ou resultado reportado pelo estudo analisado.
+        literatura_citada: Informação atribuída pelo estudo a uma obra anterior, não verificada nesta extração.
+    END VALUES
+END FIELD
+
+FIELD status_revisao TYPE ENUMERATED
+    SCOPE ITEM
+    DESCRIPTION Estado de validação humana da extração.
+    VALUES
+        proposta_ia: Extração preliminar gerada por IA, não ratificada pelo pesquisador.
+        validado_humano: Extração conferida e ratificada pelo pesquisador.
+        requer_revisao: Há divergência ou lacuna que impede uso como resposta ratificada.
+    END VALUES
+    GUIDELINES
+        Todo item proposto pelos agentes começa como proposta_ia ou requer_revisao.
+        Revisão mecânica ou por outro agente não equivale a validado_humano.
+    END GUIDELINES
+END FIELD
+
+FIELD limites TYPE TEXT
+    SCOPE ITEM
+    DESCRIPTION Incerteza, falta de elementos visuais, contexto insuficiente ou aprofundamento necessário.
+END FIELD
+
+FIELD description TYPE TEXT
+    SCOPE ONTOLOGY
+    DESCRIPTION Definição operacional da dimensão analítica.
+END FIELD
+
+FIELD topic TYPE TOPIC
+    SCOPE ONTOLOGY
+    DESCRIPTION Grupo metodológico, separado dos conceitos dos artigos.
+END FIELD
+
+FIELD inclusao TYPE TEXT
+    SCOPE ONTOLOGY
+    DESCRIPTION Regra explícita para aplicar o código.
+END FIELD
+
+FIELD exclusao TYPE TEXT
+    SCOPE ONTOLOGY
+    DESCRIPTION Regra explícita para não aplicar o código.
+END FIELD

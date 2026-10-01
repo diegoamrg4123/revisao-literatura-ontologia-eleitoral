@@ -1,0 +1,12 @@
+SOURCE @eleitoral00088
+    id_registro: ELE00088
+    titulo: EXAMINING THE EFFECT OF FAKE NEWS AWARENESS ON SOCIAL MEDIA USERS’ NEWS SHARING BEHAVIOR
+    ano: 2024
+    tipo_documental: Article
+    idioma: English
+    fontes_busca: Scopus
+    arquivo_local: ELE00088_examining_the_effect_of_fake_news_awareness_on_social_media_users_news_s.pdf
+    sha256_pdf: 40d86faec88b4ad02d632daf45c1585e31e7e93a5244d287cde6082af8644fbb
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

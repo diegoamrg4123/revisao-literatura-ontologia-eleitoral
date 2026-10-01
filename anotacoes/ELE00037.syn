@@ -1,0 +1,22 @@
+SOURCE @eleitoral00037
+    id_registro: ELE00037
+    titulo: FORENSIC LINGUISTICS ON HOAXES ON SOCIAL MEDIA IN THE 2024 INDONESIAN PRESIDENTIAL ELECTION CAMPAIGN
+    ano: 2025
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00037_forensic_linguistics_on_hoaxes_on_social_media_in_the_2024_indonesian_pr.pdf
+    sha256_pdf: c190945e47e857cfd61ef5393fcb0a023f33dfdacffa6b11c7cf884bb240eb28
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00037
+    id_item: ELE00037_E001
+    quote: The analytical framework categorized disinformation according to a seven - category typology: fake news (fabricated information presented as factual reporting), confirmation bias (selectively presented information reinforcing existing beliefs), misinformatio n (inadvertently incorrect information), satire (content using humor that could be misinterpreted as factual), post - truth narratives (emotionally charged content where objective facts are subordinated to personal belief), propaganda (systematically dissemi nated misleading information promoting political agendas), and clickbait (sensationalized content designed primarily to generate engagement).
+    memo: O artigo apresenta tipologia analítica de sete categorias com definições sucintas. A lista combina conteúdo, processos cognitivos e estilos discursivos; o excerto não demonstra hierarquia, exclusividade ou protocolo completo de decisão.
+    code: qp1_artefatos, qp3_definicoes_fronteiras, qp4_estrutura_organizacao
+    pagina: 4, física do PDF
+    localizador: ELE00037_forensic_linguistics_on_hoaxes_on_social_media_in_the_2024_indonesian_pr.pdf#page=4&selection=58,0,108,51
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Tipologia relatada como aplicada; origem detalhada de cada categoria e validação precisam de revisão aprofundada. Não ratifica elegibilidade acadêmica.
+END ITEM

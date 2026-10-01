@@ -1,0 +1,11 @@
+SOURCE @eleitoral00046
+    id_registro: ELE00046
+    titulo: Governança Eleitoral entre Reforço e Contradição:
+    ano: 2026
+    idioma: pt
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00046_governanca_eleitoral_entre_reforco_e_contradicao.pdf
+    sha256_pdf: befc18ac60e5af5506f0cc593f694f5191284be1fd095573246a9ac197ce52f2
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

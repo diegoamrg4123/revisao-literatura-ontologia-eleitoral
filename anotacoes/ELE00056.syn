@@ -1,0 +1,12 @@
+SOURCE @eleitoral00056
+    id_registro: ELE00056
+    titulo: Anti- and pro-environmental disinformation. Fact-checking Spanish political parties’ discourse
+    ano: 2024
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00056_anti_and_pro_environmental_disinformation_fact_checking_spanish_politica.pdf
+    sha256_pdf: 410960cde98b86a67947708b0cb2d8265244fc8a8a32334a4c72e6d2639a6e6a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

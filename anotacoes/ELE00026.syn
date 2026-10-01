@@ -1,0 +1,10 @@
+SOURCE @eleitoral00026
+    id_registro: ELE00026
+    titulo: La desinformación en las campañas electorales: el caso uruguayo 2024 en el contexto hispanoamericano
+    ano: 2025
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00026_la_desinformacion_en_las_campanas_electorales_el_caso_uruguayo_2024_en_el.pdf
+    sha256_pdf: f29448eda34b84a22f4ab60b30db75118cf8ce269ce7edd0ff1c7a2fa80bf488
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

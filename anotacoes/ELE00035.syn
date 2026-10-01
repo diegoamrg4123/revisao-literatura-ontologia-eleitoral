@@ -1,0 +1,25 @@
+SOURCE @eleitoral00035
+    id_registro: ELE00035
+    titulo: Truth or Fake? Developing a Taxonomical Framework for the Textual Detection of Online Disinformation
+    ano: 2022
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00035_truth_or_fake_developing_a_taxonomical_framework_for_the_textual_detecti.pdf
+    sha256_pdf: 2ca1139e7f5e9a383ca5c47b27ec86f3fd63b857e3f8047d7b6aa896ebcde231
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00035
+    id_item: ELE00035_PILOTO_01
+    quote: In our most recent iteration, this was addressed by adding a new dimension that deals with the degree of veracity. We completed our research goal, developing a taxonomy of online disinformation after taking the aforementioned information into account.
+    memo: Os autores relatam que uma iteração recente incorporou dimensão referente ao grau de veracidade. O excerto sustenta refinamento e construção da taxonomia (QP4 e QP5), mas não afirma avaliação de utilidade nem resultado avaliativo. Elegibilidade permanece pendente.
+    code: qp4_estrutura_organizacao, qp5_construcao
+    pagina: 8 (página física; rótulo impresso não registrado)
+    localizador: ELE00035_truth_or_fake_developing_a_taxonomical_framework_for_the_textual_detecti.pdf, página física 8, seleção PDF.js [183, 12, 205, 40]; segmento selected_text da evidência de página 8
+    artefato: TOD, taxonomy of online disinformation
+    valor_extraido: Nova dimensão reportada: grau de veracidade.
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Extração preliminar para piloto. Sem ratificação humana da interpretação, código ou elegibilidade; citação literal inclui hifenização/fragmentação do PDF.
+END ITEM

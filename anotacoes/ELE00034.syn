@@ -1,0 +1,12 @@
+SOURCE @eleitoral00034
+    id_registro: ELE00034
+    titulo: Climate obstruction and Facebook advertising: how a sample of climate obstruction organizations use social media to disseminate discourses of delay
+    ano: 2023
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; CAPES; Scopus
+    arquivo_local: ELE00034_climate_obstruction_and_facebook_advertising_how_a_sample_of_climate_obs.pdf
+    sha256_pdf: 8a8aa3ed56cdb99b0a9142354e5425f1588fb7148e11ea12218b400e8229959b
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

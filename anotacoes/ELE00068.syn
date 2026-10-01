@@ -1,0 +1,10 @@
+SOURCE @eleitoral00068
+    id_registro: ELE00068
+    titulo: Reality in America, Redux: On Trump Panic Fiction
+    ano: 2024
+    fontes_busca: CAPES
+    arquivo_local: ELE00068_reality_in_america_redux_on_trump_panic_fiction.pdf
+    sha256_pdf: 9563597de9bba5b0ffe8158933180ddce500cc37fed0ab86fd1ac7601b077916
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

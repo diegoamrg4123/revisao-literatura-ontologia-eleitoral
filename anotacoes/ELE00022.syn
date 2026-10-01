@@ -1,0 +1,12 @@
+SOURCE @eleitoral00022
+    id_registro: ELE00022
+    titulo: DESINFORMACIÓN Y FACT-CHECKING EN LAS ELECCIONES URUGUAYAS DE 2019. EL CASO DE VERIFICADO URUGUAY
+    ano: 2021
+    tipo_documental: Article
+    idioma: es
+    fontes_busca: OpenAlex; CAPES; SciELO
+    arquivo_local: ELE00022_desinformacion_y_fact_checking_en_las_elecciones_uruguayas_de_2019_el_ca.pdf
+    sha256_pdf: 496c85c97db8f09343396b01b89b07183d30e8429c687ca7d223ee9c49ebd651
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

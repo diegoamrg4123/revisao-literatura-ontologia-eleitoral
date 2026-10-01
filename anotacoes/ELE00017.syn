@@ -1,0 +1,37 @@
+SOURCE @eleitoral00017
+    id_registro: ELE00017
+    titulo: Sourcing and Automation of Political News and Information over Social Media in the United States, 2016-2018
+    ano: 2019
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00017_sourcing_and_automation_of_political_news_and_information_over_social_me.pdf
+    sha256_pdf: 4ac1826797a25c1ff3ee7bac2f658d4f127fdef9f782d02e3bcaefea298b5f7a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00017
+    id_item: ELE00017_E001
+    quote: Finally, our team developed a grounded typology in an iterative process and manu- ally cataloged the base URLs, and this process is described in detail below. Our team labeled a total of 710 base URLs following the described method. Using a simple Python script, the coding decisions for the base URLs were applied to individual links that users shared during the political events.
+    memo: Os autores relatam construção iterativa de grounded typology, rotulação manual de 710 URLs-base e aplicação computacional das decisões por script Python. O excerto liga desenvolvimento, unidades codificadas e ferramenta, sem afirmar que o script esteja publicamente disponível.
+    code: qp1_artefatos, qp5_construcao, qp6_tecnicas_ferramentas_dados
+    pagina: 10, física do PDF
+    localizador: ELE00017_sourcing_and_automation_of_political_news_and_information_over_social_me.pdf#page=10&selection=25,0,29,35
+    artefato: grounded typology
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Não enumera as classes ou critérios completos. Relação com ELE00015 pendente de revisão. Elegibilidade não ratificada.
+END ITEM
+
+ITEM @eleitoral00017
+    id_item: ELE00017_E002
+    quote: Coding and training regarding the shared dataset from the US achieved an intercoder reliability score of Krippendorf ’ s alpha = 0.89, signaling good concept formation and a high adeptness of our method.
+    memo: O artigo reporta alfa de concordância de 0.89 para codificação e treinamento no dataset norte-americano. A interpretação positiva é autoral; concordância neste recorte não equivale a validação externa universal.
+    code: qp7_avaliacao_limites_lacunas
+    pagina: 11, física do PDF
+    localizador: ELE00017_sourcing_and_automation_of_political_news_and_information_over_social_me.pdf#page=11&selection=17,26,21,45
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Procedimento de cálculo e amostragem precisa de leitura aprofundada. Preservada a grafia literal Krippendorf e a fragmentação do PDF. Sem recalcular a métrica nem validar independentemente.
+END ITEM

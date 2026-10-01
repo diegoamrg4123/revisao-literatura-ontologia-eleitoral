@@ -1,0 +1,12 @@
+SOURCE @eleitoral00077
+    id_registro: ELE00077
+    titulo: The Web of False Information
+    ano: 2019
+    tipo_documental: Article
+    idioma: English
+    fontes_busca: CAPES; Scopus
+    arquivo_local: ELE00077_the_web_of_false_information.pdf
+    sha256_pdf: cb7fb1050424e23314efe372886731689ca3b1edc42e070321a100e0a4a92d70
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

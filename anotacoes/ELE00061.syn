@@ -1,0 +1,11 @@
+SOURCE @eleitoral00061
+    id_registro: ELE00061
+    titulo: Protection and care in the face of direct and structural violence: learning from indigenous life and territory defenders in Abya Yala
+    ano: 2026
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00061_protection_and_care_in_the_face_of_direct_and_structural_violence_learni.pdf
+    sha256_pdf: efa7124c6175c6ceebb38b07b721fec7766e8be2e482c54825aacf428b46652d
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

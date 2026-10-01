@@ -1,0 +1,36 @@
+# Materiais locais de agentes: não integrar ao pacote público
+AGENTS.md
+CLAUDE.md
+for-agents/
+Memory.md
+memory.md
+
+# Credenciais e configuração local
+.env
+*.env
+*.pem
+*.key
+.netrc
+credentials
+*.token
+
+# PDFs e derivados de texto integral: ficam fora do pacote
+*.pdf
+cache/
+caches/
+index/
+indexes/
+__pycache__/
+*.pyc
+
+# Ambientes, logs e backups
+.venv/
+venv/
+*.log
+backups/
+*.bak
+*~
+
+# Artefatos de editor e sistema
+.DS_Store
+Thumbs.db

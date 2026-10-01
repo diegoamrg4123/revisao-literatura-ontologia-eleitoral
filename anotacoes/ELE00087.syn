@@ -1,0 +1,12 @@
+SOURCE @eleitoral00087
+    id_registro: ELE00087
+    titulo: FAKE NEWS: DEFINITIONS, TYPOLOGIES, AND THE INSUFFICIENCY OF THE BRAZILIAN STATE’S RESPONSES; [FAKE NEWS: DEFINIÇÕES, TIPOLOGIAS E A INSUFICIÊNCIA DAS RESPOSTAS ESTATAIS]
+    ano: 2022
+    tipo_documental: Article
+    idioma: Portuguese
+    fontes_busca: Scopus
+    arquivo_local: ELE00087_fake_news_definitions_typologies_and_the_insufficiency_of_the_brazilian.pdf
+    sha256_pdf: a1b4b5368bab64b28140a9fd8c0f7d890d99096f93bdc659259cc3f83a4f032b
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

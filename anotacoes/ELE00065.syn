@@ -1,0 +1,26 @@
+SOURCE @eleitoral00065
+    id_registro: ELE00065
+    titulo: A FLICC além do negacionismo climático: uma análise de grupos bolsonaristas no WhatsApp durante a campanha de 2022 e o 8/1
+    ano: 2026
+    tipo_documental: Article
+    idioma: Português
+    fontes_busca: OpenAlex; SciELO
+    arquivo_local: ELE00065_a_flicc_alem_do_negacionismo_climatico_uma_analise_de_grupos_bolsonarist.pdf
+    sha256_pdf: ba3bbb0e0047e76e0e559f85ff63314cac798f2ec6910dfd65b156f7e1b6f978
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE
+
+ITEM @eleitoral00065
+    id_item: ELE00065_PILOTO_01
+    quote: O artigo testa a hipótese de que a taxonomia FLICC possa ser aplicada a outros campos afetados pela desinformação. A análi - se do conteúdo revelou que a estratégia FLICC pode ser aplicada a outros campos, como no caso do evento político analisado, em que hou - ve um forte predomínio de falácias lógicas e teorias da conspiração.
+    memo: Os autores reportam teste de aplicação da taxonomia FLICC preexistente ao caso político e achados de predominância. Isso é aplicação e resultado, não construção original da FLICC. A citação selecionada contém fragmentação literal preservada; elegibilidade ainda não ratificada.
+    code: qp1_artefatos, qp7_avaliacao_limites_lacunas
+    pagina: 2 (página física; conferir rótulo impresso no PDF)
+    localizador: ELE00065_a_flicc_alem_do_negacionismo_climatico_uma_analise_de_grupos_bolsonarist.pdf, página física 2, seleção PDF.js [37, 8, 53, 23]; segmento selected_text da evidência de página 2
+    artefato: FLICC (taxonomia preexistente, aplicada pelo estudo)
+    valor_extraido: Aplicação reportada em caso político; achados reportados incluem falácias lógicas e teorias da conspiração.
+    origem_afirmacao: estudo_atual
+    status_revisao: proposta_ia
+    limites: Extração preliminar para piloto. Sem ratificação humana da interpretação, código ou elegibilidade; citação literal inclui hifenização/fragmentação do PDF.
+END ITEM

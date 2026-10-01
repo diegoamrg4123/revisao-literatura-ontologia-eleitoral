@@ -1,0 +1,12 @@
+SOURCE @eleitoral00007
+    id_registro: ELE00007
+    titulo: FAKE NEWS DETECTION USING NATURAL LANGUAGE PROCESSING
+    ano: 2023
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00007_fake_news_detection_nlp_exa_text_extraction_derived.pdf
+    sha256_pdf: 824b9a304f87ec4a39cbbaab96b0dcd68b8459ad51ef0eeb044a8935a85ad44b
+    natureza_texto: identidade_pendente
+    elegibilidade: pendente
+    conflitos: Identidade pendente: manifesto registra divergência entre título/autores extraídos e metadados; não resolver automaticamente.
+END SOURCE

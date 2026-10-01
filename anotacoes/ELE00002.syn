@@ -1,0 +1,9 @@
+SOURCE @eleitoral00002
+    id_registro: ELE00002
+    titulo: A Study of Misinformation in WhatsApp groups with a focus on the Brazilian Presidential Elections.
+    ano: 2019
+    fontes_busca: ACM
+    natureza_texto: sem_texto_integral
+    elegibilidade: pendente
+    conflitos: Sem PDF local atribuído no manifesto; tentativas e limites permanecem no manifesto canônico.
+END SOURCE

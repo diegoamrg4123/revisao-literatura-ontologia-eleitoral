@@ -1,0 +1,11 @@
+SOURCE @eleitoral00064
+    id_registro: ELE00064
+    titulo: BLIND SPOTS OF INFORMATION OPERATIONS: OF MICRO PROPAGANDA, ALGORITHM GAMING \\& HOW TO PROFIT FROM IT
+    ano: 2019
+    idioma: en
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00064_blind_spots_of_information_operations_of_micro_propaganda_algorithm_gami.pdf
+    sha256_pdf: 0fd618164b6568f424361ecaf53cab3eb31095b281cb1211b3ca68c0795f334e
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

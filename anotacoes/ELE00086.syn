@@ -1,0 +1,12 @@
+SOURCE @eleitoral00086
+    id_registro: ELE00086
+    titulo: Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections
+    ano: 2020
+    tipo_documental: Article
+    idioma: English
+    fontes_busca: Scopus
+    arquivo_local: ELE00086_scandalous_design_how_social_media_platforms_responses_to_scandal_impacts_campaigns_and.pdf
+    sha256_pdf: b90e6f15fd7da19c658163efe82c15a724579575cc426ca42a63c7c71e27792a
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

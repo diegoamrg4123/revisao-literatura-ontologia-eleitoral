@@ -1,0 +1,10 @@
+SOURCE @eleitoral00076
+    id_registro: ELE00076
+    titulo: Social bots in political communication
+    ano: 2019
+    fontes_busca: CAPES
+    arquivo_local: ELE00076_social_bots_in_political_communication.pdf
+    sha256_pdf: 21b469f53bd8738df2edb4e1ade279e117424c49f4d39163f21457af7f951e94
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

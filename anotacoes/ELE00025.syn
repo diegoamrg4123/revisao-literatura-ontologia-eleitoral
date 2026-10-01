@@ -1,0 +1,11 @@
+SOURCE @eleitoral00025
+    id_registro: ELE00025
+    titulo: Análisis FIMI de la desinformación en las elecciones españolas de 2023: objetivos, canales y narrativas para dañar la confianza en el sistema electoral
+    ano: 2025
+    idioma: es
+    fontes_busca: OpenAlex
+    arquivo_local: ELE00025_analisis_fimi_de_la_desinformacion_en_las_elecciones_espanolas_de_2023_o.pdf
+    sha256_pdf: 7d4e2afaf4a64dde58f34f2466bf3c38a753e5834328bcf0cd7711fc744284fa
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

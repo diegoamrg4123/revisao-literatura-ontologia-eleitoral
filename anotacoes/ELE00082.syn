@@ -1,0 +1,10 @@
+SOURCE @eleitoral00082
+    id_registro: ELE00082
+    titulo: The Impacts of Social Equity on Health
+    ano: 2021
+    fontes_busca: CAPES
+    arquivo_local: ELE00082_the_impacts_of_social_equity_on_health_EuropePMC_XML_derived.pdf
+    sha256_pdf: fa5eb311c9b876f2b5a0110ba37a0da26a0f11cf56aaae2a27fa1946a0dd6e61
+    natureza_texto: copia_derivada
+    elegibilidade: pendente
+END SOURCE

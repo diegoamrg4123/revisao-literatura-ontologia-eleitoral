@@ -1,0 +1,12 @@
+SOURCE @eleitoral00009
+    id_registro: ELE00009
+    titulo: Hate Speech Typology of Selected Controversial Figures on Social Media: A Discourse-Analytic Perspective
+    ano: 2025
+    tipo_documental: Article
+    idioma: en
+    fontes_busca: OpenAlex; Scopus
+    arquivo_local: ELE00009_hate_speech_typology_of_selected_controversial_figures_on_social_media_a.pdf
+    sha256_pdf: 539f94bb39b56257fe55b9906ce3f43c257a85f4d616b130aa76a3046af07876
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

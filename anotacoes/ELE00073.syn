@@ -1,0 +1,11 @@
+SOURCE @eleitoral00073
+    id_registro: ELE00073
+    titulo: “Trump Shit Goes into Overdrive”: Tracing Trump on 4chan/pol/
+    ano: 2020
+    fontes_busca: CAPES
+    arquivo_local: ELE00073_trump_shit_goes_into_overdrive_tracing_trump_on_4chan_pol.pdf
+    sha256_pdf: 69997c8e513e706010f39e0f5ac0f892599f979d0339f2780ece63ffb44490a7
+    natureza_texto: identidade_pendente
+    elegibilidade: pendente
+    conflitos: Identidade documental em quarentena conforme manifesto; PDF não validado como correspondente ao registro, não usar para extração até revisão.
+END SOURCE

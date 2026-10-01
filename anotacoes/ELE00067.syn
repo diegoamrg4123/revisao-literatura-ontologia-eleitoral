@@ -1,0 +1,10 @@
+SOURCE @eleitoral00067
+    id_registro: ELE00067
+    titulo: Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler
+    ano: 2023
+    fontes_busca: CAPES
+    arquivo_local: ELE00067_comparing_the_stopthesteal_movement_across_multiple_platforms_differentiating_discourse_on_facebook_twitter.pdf
+    sha256_pdf: c0d47883aedf3e646207cdb83097ba679c25c2d7bc426872880bc328e14b94fc
+    natureza_texto: pdf_nao_derivado
+    elegibilidade: pendente
+END SOURCE

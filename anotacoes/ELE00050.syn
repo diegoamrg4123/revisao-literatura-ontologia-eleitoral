@@ -1,0 +1,11 @@
+SOURCE @eleitoral00050
+    id_registro: ELE00050
+    titulo: ISLAM, CYBERSPACE AND POST-TRUTH: EPISTEMOLOGICAL PROBLEMS IN THE DIGITAL AGE
+    ano: 2023
+    idioma: en
+    fontes_busca: OpenAlex; CAPES
+    arquivo_local: ELE00050_islam_cyberspace_post_truth_text_extraction_derived.pdf
+    sha256_pdf: cea36734931912cf8248e68b6a5a8c4b92ddcd05e88d3d39a06144e202269370
+    natureza_texto: copia_derivada
+    elegibilidade: pendente
+END SOURCE
